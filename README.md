@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="Grey Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/9fa9e5e4-ec29-4aa2-bc61-cd01e3556aa3" />
+
+
 <h1 align="center">Hi 👋, I'm Sairam Kattunga</h1>
 <p align="center"><i>Software Engineer | AI Researcher | Flutter Developer | AWS Learner</i></p>
 
@@ -11,7 +14,7 @@ With a strong foundation in programming, AI, and mobile development, I bring ide
 
 I believe in lifelong learning and open-source contribution — code is not just syntax; it’s impact.
 
-<img align="right" height="300" width="400" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-3938.jpg?t=st=1717105024~exp=1717105624" />
+<img align="right" height="300" width="400" src="https://github.com/user-attachments/assets/18e4e431-ae5a-4321-9630-7ad595d00f25" />
 
 ---
 
@@ -33,6 +36,9 @@ I believe in lifelong learning and open-source contribution — code is not just
   <a href="https://www.geeksforgeeks.org/user/sairamkat4b8i/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30"/>
   </a>
+  <a href="https://simple-portfolio-sigma-orpin.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat&logo=vercel&logoColor=Red" height="30" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -40,20 +46,19 @@ I believe in lifelong learning and open-source contribution — code is not just
 ### 💻 Languages and Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
+ <p>
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" /> &nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/security-shield-green.png" width="40" alt="Cybersecurity" /> &nbsp;
+</p>
+
 </p>
 
 ---
