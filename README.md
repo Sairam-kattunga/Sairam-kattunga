@@ -1,21 +1,13 @@
 <img width="1584" height="396" alt="Grey Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/9fa9e5e4-ec29-4aa2-bc61-cd01e3556aa3" />
 
-<h1 align="center">Hi 👋, I'm Sairam Kattunga</h1>
-<p align="center"><i>Software Engineer | AI Researcher | Flutter Developer | AWS Learner</i></p>
+<h1 align="center">Hi 👋, I'm Rama Venkata Manikanta Sairam Kattunga</h1>
+<p align="center"><i>Adaptive Software Developer | AI/ML Enthusiast | Flutter Developer | Cloud & Cybersecurity Learner</i></p>
 
 ---
 
 ## 💫 About Me
 
-I'm a passionate **Computer Science graduate** from India, focused on leveraging technology to build **smart city solutions**, **real-time AI applications**, and **intuitive mobile interfaces**.
-
-With a strong foundation in programming, AI, and mobile development, I bring ideas to life with clarity, creativity, and code. I’ve built multiple impactful projects, including a **CNN-powered traffic congestion monitoring system** and several apps using **Flutter** and **Firebase**.  
-
-I'm currently part of the **AWS re/Start Program** to strengthen my cloud expertise.
-
-I believe in lifelong learning and open-source contribution — code is not just syntax; it’s impact.
-
-<img align="right" height="300" width="400" src="https://github.com/user-attachments/assets/18e4e431-ae5a-4321-9630-7ad595d00f25" />
+Adaptive and detail-oriented **Software Developer** with a blend of **full-stack development** and **AI/ML experience**. Skilled in building **scalable applications**, optimizing performance, and integrating **real-time systems**. Committed to **continuous learning** and delivering **high-quality code and user experiences**.
 
 ---
 
@@ -25,56 +17,88 @@ I believe in lifelong learning and open-source contribution — code is not just
   <a href="https://www.linkedin.com/in/sairamkrvm123/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="https://leetcode.com/u/Sairam-333/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30"/>
+  <a href="https://github.com/Sairam-kattunga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   </a>
-  <a href="https://x.com/SairamOfficial6" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.youtube.com/@TheSouthieSwag" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/sairamkat4b8i/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30"/>
+  <a href="mailto:Sairamkattunga333@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   <a href="https://simple-portfolio-sigma-orpin.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=red" height="30" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=red" height="30" alt="Portfolio" />
   </a>
 </p>
+
 
 ---
 
-## 💻 Languages and Tools
+## 💼 Experience
 
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" /> &nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/000000/security-shield-green.png" width="40" alt="Cybersecurity" /> &nbsp;
-</p>
+**Garuda Aerospace | Nov 2023 – Feb 2024**  
+*Drone Pilot Intern*  
+- Worked on drone operations for precision agriculture & advanced surveillance  
+- Gained hands-on expertise in drone navigation, data acquisition, and aerial imagery analysis
+
+**HCLTech | Feb 2025 – Apr 2025**  
+*Cybersecurity Trainee*  
+- Covered Security+, CEH, SC-900, CCNA Security, AZ-900  
+- Learned network security, ethical hacking, cloud security, and analytics tools (Power BI, Tableau, Kibana)
 
 ---
 
 ## 🧠 Featured Projects
 
-🔍 **[Monitoring Traffic Congestion in Smart Cities using CNN](https://github.com/Sairam-kattunga/Traffic_Congestion_Monitoring_CNN)**  
-A CNN-based model to detect and monitor real-time traffic congestion from video input, enhancing smart city infrastructure.
+### 🔍 [Traffic Congestion Monitoring using CNN](https://github.com/Sairam-kattunga/Traffic_Congestion_Monitoring_CNN)
+- Detects real-time traffic congestion from video feeds using **CNNs**  
+- Enhances **smart city traffic management**  
+- **Tech Stack:** Python, OpenCV, TensorFlow, Real-time Video Processing 
 
-📱 **[Flutter Apps Collection](https://github.com/Sairam-kattunga/Simatix-App)**  
-Multiple Flutter projects built with Firebase, REST APIs, and clean architecture practices.
+### 📱 [Simatix – College Connect App](https://github.com/Sairam-kattunga/Simatix_A-College-Connect-App)
+- Full-stack **Flutter + Firebase app** for real-time faculty ratings, anonymous feedback, and push notifications  
+- Features: Faculty Directory, CGPA Calculator, Attendance Tracker, Maintenance Mode, Feedback System, Live Updates  
+- **Tech Stack:** Flutter, Dart, Firebase (Firestore & Cloud Messaging), REST APIs, Google Sheets APIs  
+- **Impact:** Improved student-faculty engagement by 40%  
+
+### 🌐 [Personal Portfolio Website](https://simple-portfolio-sigma-orpin.vercel.app/)
+- Responsive portfolio using **React.js & Tailwind CSS**, dark mode, animations, and CI/CD  
+- **Impact:** 1,500+ unique views, boosting recruiter interaction  
+
+---
+
+## 💻 Skills
+
+**Technical:** Java, MySQL, HTML, C, JavaScript, CSS, React.js, Flutter, Python  
+**Analytics & Cloud:** Power BI, Tableau, Kibana, Azure (AZ-900)  
+**Soft Skills:** Time Management, Teamwork, Flexibility, Communication  
+**Languages:** Telugu, English, Hindi  
+**Hobbies:** Reading Books, Travelling
+
+---
+
+## 🎓 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/NPTEL-0073CF?style=for-the-badge&logo=nptel&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/GrowthSchool-00C853?style=for-the-badge&logo=googlescholar&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Wipro-1E90FF?style=for-the-badge&logo=wipro&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" height="30" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sairam-kattunga&show_icons=true&theme=radical" alt="Sairam's GitHub Stats" width="400"/>
+</p>
 
 ---
 
 ## 🗂️ Let's Collaborate!
 
-- 🤝 Open to internships and research collaborations  
-- 🔍 Looking for opportunities in AI, Flutter, or Cloud Computing  
-- 💬 Ask me about projects, ideas, or code reviews  
+- 🤝 Open to internships, freelance, and research collaborations  
+- 🔍 Interested in **AI, Flutter, Cloud Computing, Cybersecurity**  
+- 💬 Ask me about projects, code reviews, or technical guidance  
 
 ---
 
