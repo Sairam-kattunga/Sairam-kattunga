@@ -31,20 +31,6 @@ Adaptive and detail-oriented **Software Developer** with a blend of **full-stack
 
 ---
 
-## 💼 Experience
-
-**Garuda Aerospace | Nov 2023 – Feb 2024**  
-*Drone Pilot Intern*  
-- Worked on drone operations for precision agriculture & advanced surveillance  
-- Gained hands-on expertise in drone navigation, data acquisition, and aerial imagery analysis
-
-**HCLTech | Feb 2025 – Apr 2025**  
-*Cybersecurity Trainee*  
-- Covered Security+, CEH, SC-900, CCNA Security, AZ-900  
-- Learned network security, ethical hacking, cloud security, and analytics tools (Power BI, Tableau, Kibana)
-
----
-
 ## 🧠 Featured Projects
 
 ### 🔍 [Traffic Congestion Monitoring using CNN](https://github.com/Sairam-kattunga/Traffic_Congestion_Monitoring_CNN)
@@ -53,14 +39,18 @@ Adaptive and detail-oriented **Software Developer** with a blend of **full-stack
 - **Tech Stack:** Python, OpenCV, TensorFlow, Real-time Video Processing 
 
 ### 📱 [Simatix – College Connect App](https://github.com/Sairam-kattunga/Simatix_A-College-Connect-App)
-- Full-stack **Flutter + Firebase app** for real-time faculty ratings, anonymous feedback, and push notifications  
+- Full-stack **Flutter + App Scipt + Scripts** for real-time faculty ratings, anonymous feedback, and push notifications  
 - Features: Faculty Directory, CGPA Calculator, Attendance Tracker, Maintenance Mode, Feedback System, Live Updates  
-- **Tech Stack:** Flutter, Dart, Firebase (Firestore & Cloud Messaging), REST APIs, Google Sheets APIs  
+- **Tech Stack:** Flutter, Dart, REST APIs, Google Sheets APIs  
 - **Impact:** Improved student-faculty engagement by 40%  
 
 ### 🌐 [Personal Portfolio Website](https://simple-portfolio-sigma-orpin.vercel.app/)
 - Responsive portfolio using **React.js & Tailwind CSS**, dark mode, animations, and CI/CD  
-- **Impact:** 1,500+ unique views, boosting recruiter interaction  
+- **Impact:** 1,500+ unique views, boosting recruiter interaction
+  
+### 🌐 [RentEazy - All In One Rental App ](https://github.com/Sairam-kattunga/Tool_Rentals)
+- Full-stack **Flutter + Firebase app** for real-time faculty ratings, anonymous feedback, and push notifications
+- **Tech Stack:** Flutter, Dart, Firebase (Firestore & Cloud Messaging), REST APIs
 
 ---
 
