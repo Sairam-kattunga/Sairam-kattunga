@@ -48,7 +48,7 @@ Adaptive and detail-oriented **Software Developer** with a blend of **full-stack
 - Responsive portfolio using **React.js & Tailwind CSS**, dark mode, animations, and CI/CD  
 - **Impact:** 1,500+ unique views, boosting recruiter interaction
   
-### 🌐 [RentEazy - All In One Rental App ](https://github.com/Sairam-kattunga/Tool_Rentals)
+### 📱 [RentEazy - All In One Rental App ](https://github.com/Sairam-kattunga/Tool_Rentals)
 - Full-stack **Flutter + Firebase app** for real-time faculty ratings, anonymous feedback, and push notifications
 - **Tech Stack:** Flutter, Dart, Firebase (Firestore & Cloud Messaging), REST APIs
 
